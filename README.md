@@ -73,5 +73,4 @@ pip install -r requirements.txt
 
 ```
 python acm_task.py
-
 ```
